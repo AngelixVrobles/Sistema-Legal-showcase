@@ -49,7 +49,15 @@ Diseño y desarrollo **full-stack** de la plataforma completa: arquitectura modu
 
 ## 📸 Capturas
 
-> _Capturas de la aplicación (sanitizadas, sin datos reales de clientes) — pendientes de agregar._
+> _Capturas reales de la aplicación, con marca de ejemplo y datos de demostración (sin datos reales de clientes)._
+
+| Inicio de sesión | Selección de módulo |
+|:---:|:---:|
+| ![Login](screenshots/login.png) | ![Selección de módulo](screenshots/seleccion-modulo.png) |
+
+| Biblioteca jurídica | Listado de libros |
+|:---:|:---:|
+| ![Biblioteca](screenshots/biblioteca.png) | ![Libros](screenshots/libros.png) |
 
 ---
 
