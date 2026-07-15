@@ -13,11 +13,11 @@
 
 ---
 
-## 📌 Qué es
+## Qué es
 
 Sistema de gestión para bufetes de abogados que combina dos módulos en una sola plataforma: una **biblioteca jurídica** y la **gestión de expedientes legales**. Es el producto base del que derivan despliegues más acotados por cliente.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Biblioteca jurídica**: organización y consulta de recursos legales.
 - **Expedientes legales**: clientes, juzgados, documentos, pagos y seguimiento de casos.
@@ -26,7 +26,7 @@ Sistema de gestión para bufetes de abogados que combina dos módulos en una sol
 - **Tablas avanzadas** (filtros, orden, paginación) con TanStack Table.
 - **Generación de documentos / PDFs** y vista previa de Word.
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 | Capa | Tecnologías |
 |------|-------------|
@@ -37,17 +37,17 @@ Sistema de gestión para bufetes de abogados que combina dos módulos en una sol
 | Datos / tablas | TanStack Table |
 | Seguridad | bcrypt, autenticación con sesiones |
 
-## 👤 Mi rol
+## Mi rol
 
 Diseño y desarrollo **full-stack** de la plataforma completa: arquitectura modular, modelo de datos con Prisma, backend, interfaz con sistema de componentes (Radix/shadcn) y generación de documentos.
 
-## 💡 Retos y aprendizajes
+## Retos y aprendizajes
 
 - **Arquitectura modular** que permite activar/derivar módulos (biblioteca, expedientes) según el cliente.
 - **Sistema de componentes reutilizable** con Radix UI para una UI consistente y accesible.
 - **Generación de documentos legales** en PDF a partir de los datos del expediente.
 
-## 📸 Capturas
+## Capturas
 
 > _Capturas reales de la aplicación, con marca de ejemplo y datos de demostración (sin datos reales de clientes)._
 
@@ -61,10 +61,10 @@ Diseño y desarrollo **full-stack** de la plataforma completa: arquitectura modu
 
 ---
 
-### 🔒 Sobre el código fuente
+### Sobre el código fuente
 
 El código fuente es **privado** por tratarse de software propietario / de cliente con datos sensibles (información legal). Disponible para revisión en entrevista o con acceso de solo lectura bajo solicitud.
 
-### 📬 Contacto
+### Contacto
 
 **Angelix Vásquez** · Angelixvrobles1234@outlook.com · [GitHub](https://github.com/AngelixVrobles)
