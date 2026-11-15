@@ -35,7 +35,8 @@ Sistema de gestión para bufetes de abogados que combina dos módulos en una sol
 | Base de datos | PostgreSQL |
 | Documentos | jsPDF, jspdf-autotable, docx-preview |
 | Datos / tablas | TanStack Table |
-| Seguridad | bcrypt, autenticación con sesiones |
+| Seguridad | NextAuth (sesiones), bcrypt |
+| Infraestructura | Docker + docker-compose (app + PostgreSQL + nginx) |
 
 ## Mi rol
 
@@ -67,4 +68,4 @@ El código fuente es **privado** por tratarse de software propietario / de clien
 
 ### Contacto
 
-**Angelix Vásquez** · [GitHub](https://github.com/AngelixVrobles)
+**Angelix Vásquez R.** · [GitHub](https://github.com/AngelixVrobles)
